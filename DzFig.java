@@ -1,6 +1,10 @@
-import DzFig.Figures.*;
+import Figures.*;
 
-import DzFig.Figures.Base.*;
+import Figures.Base.*;
+import Figures.Circle;
+import Figures.Rectangle;
+import Figures.Square;
+import Figures.Triangle;
 
 public class DzFig {
     public static void main(String[] args) {
